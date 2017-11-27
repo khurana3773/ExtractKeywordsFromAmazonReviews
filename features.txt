@@ -1,0 +1,53 @@
+Features for Cameras:
+
+Battery
+Camera
+Lens
+Memory card/SD card
+Modes/Camera modes
+Screen size
+Screen Quality
+Screen
+Picture quality/Photo quality
+Focus
+Accessories
+Price
+
+----------------------
+
+Features for Phones:
+
+Battery
+Screen Size
+Screen Quality
+Screen
+Performance
+Glass
+Phone
+RAM
+Speed
+Processor
+Weight
+Price
+Accessories
+
+---------------------
+
+Features for Laptops:
+
+Battery
+Screen Quality
+Screen size
+Screen
+Performance
+Ram
+Hard disk
+Processor
+Performance
+Price
+Accessories
+Weight
+Speed
+Touch/Touch Screen
+Graphic Processor
+
